@@ -1,0 +1,26 @@
+
+body {
+    font-size: 12px;
+    font-family: Arial, sans-serif;
+    color: #fff;
+	background: url(images/head1.jpg);
+	background-position: center top;
+    background-size: 100% auto;
+	background-size:     cover;                    
+    background-repeat:   no-repeat;
+  
+}
+
+table {
+	width: 80%;
+}
+
+
+.sp-league-table .team-logo img {
+	width: auto;
+	height: auto;
+	max-width: 25px;
+	max-height: 25px;
+	float: left;
+	margin-right: 6px;
+}
